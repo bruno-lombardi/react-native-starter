@@ -4,9 +4,11 @@ It consumes a simple service made by folks at [Rocketseat](https://github.com/Ro
 
 ## Preview
 > Screenshot of current version of the app.
-<p>
-  <img src="preview/screenshot.png" width="400px" align="left" />
-  <img src="preview/screenshot2.png" width="400px" align="right" />
+<p align="center">
+  <img src="preview/screenshot.png" width="400px">
+</p>
+<p align="center">
+  <img src="preview/screenshot2.png" width="400px">
 </p>
 
 ## Develop
