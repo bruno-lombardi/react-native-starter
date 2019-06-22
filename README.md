@@ -4,9 +4,10 @@ It consumes a simple service made by folks at [Rocketseat](https://github.com/Ro
 
 ## Preview
 > Screenshot of current version of the app.
-
-<img src="preview/screenshot.png" width="400px" align="left" />
-<img src="preview/screenshot2.png" width="400px" align="right" />
+<p>
+  <img src="preview/screenshot.png" width="400px" align="left" />
+  <img src="preview/screenshot2.png" width="400px" align="right" />
+</p>
 
 ## Develop
 It should be easy to develop, just install [react-native-cli](https://www.npmjs.com/package/react-native-cli) as global dependency, and all it's dependencies for building native apps, like [Android Build Tools](https://github.com/codepath/android_guides/wiki/Installing-Android-SDK-Tools) and [XCode](https://developer.apple.com/xcode/) (for building iOS apps on macOS).
